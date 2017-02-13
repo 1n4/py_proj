@@ -27,4 +27,14 @@ if 'banana' in myList:
     print "mylist cantains a banana"
 
 
+list_a = [x*x for x in range(1,10)]                                    #python的列表生成式
+print list_a
+
+
+list_b = [x*x+1 for x in range (1,20,2)]
+
+list_c = [x for x in range(1,101) if x%2==0]
+
+
+list_d = [a+b for a in 'abcde' for b in '123123']
 
