@@ -12,11 +12,11 @@
 # **MID TABLE :
 # **DIM TABLE :
 # **OUTPUT TABLE: 
-
-import numpy as np
+import numpy   as np
 
 height = [1.73,1.66,1.83,1.77]
 weight = [56,73,66,51]
+
 
 np_height = np.array(height)
 np_weight = np.array(weight)
