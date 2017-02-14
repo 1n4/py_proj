@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/python_test/py/learning/input_test.py" line="12" mnemonic="3" />
+    <bookmark url="file://$PROJECT_DIR$/python_test/py_learning/input_test.py" line="12" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b0c89b0-1d6a-4c7f-abc1-42b8ce872817" name="Default" comment="" />
+    <list default="true" id="7b0c89b0-1d6a-4c7f-abc1-42b8ce872817" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_test/py_learning/customerror.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_test/py_learning/numpy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_test/py_learning/rasise_assert.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_test/py_learning/try_except.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_test/py_learning/try_finally.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_test/py_learning/with.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python_test/py/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python_test/py/learning/__init__.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/args_test.py" afterPath="$PROJECT_DIR$/python_test/py_learning/args_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/class.py" afterPath="$PROJECT_DIR$/python_test/py_learning/class.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/class_test.py" afterPath="$PROJECT_DIR$/python_test/py_learning/class_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/closure.py" afterPath="$PROJECT_DIR$/python_test/py_learning/closure.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/decorator.py" afterPath="$PROJECT_DIR$/python_test/py_learning/decorator.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/decorator2.py" afterPath="$PROJECT_DIR$/python_test/py_learning/decorator2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/dic_test.py" afterPath="$PROJECT_DIR$/python_test/py_learning/dic_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/doc_test.py" afterPath="$PROJECT_DIR$/python_test/py_learning/doc_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/dymic_import.py" afterPath="$PROJECT_DIR$/python_test/py_learning/dymic_import.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/fab_test.py" afterPath="$PROJECT_DIR$/python_test/py_learning/fab_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/for_test.py" afterPath="$PROJECT_DIR$/python_test/py_learning/for_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/func_test.py" afterPath="$PROJECT_DIR$/python_test/py_learning/func_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/func_test2.py" afterPath="$PROJECT_DIR$/python_test/py_learning/func_test2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/func_test3.py" afterPath="$PROJECT_DIR$/python_test/py_learning/func_test3.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/func_test4.py" afterPath="$PROJECT_DIR$/python_test/py_learning/func_test4.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/future_test.py" afterPath="$PROJECT_DIR$/python_test/py_learning/future_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/hantower_test.py" afterPath="$PROJECT_DIR$/python_test/py_learning/hantower_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/input_test.py" afterPath="$PROJECT_DIR$/python_test/py_learning/input_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/json.py" afterPath="$PROJECT_DIR$/python_test/py_learning/json.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/lesson_5_5_while.py" afterPath="$PROJECT_DIR$/python_test/py_learning/lesson_5_5_while.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/list_test.py" afterPath="$PROJECT_DIR$/python_test/py_learning/list_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/lsn-5_8_mulitloop.py" afterPath="$PROJECT_DIR$/python_test/py_learning/lsn-5_8_mulitloop.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/lsn_5_6_break.py" afterPath="$PROJECT_DIR$/python_test/py_learning/lsn_5_6_break.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/lsn_5_7_contine.py" afterPath="$PROJECT_DIR$/python_test/py_learning/lsn_5_7_contine.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/map_reduce_filer.py" afterPath="$PROJECT_DIR$/python_test/py_learning/map_reduce_filer.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/math" afterPath="$PROJECT_DIR$/python_test/py_learning/math" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/module_test.py" afterPath="$PROJECT_DIR$/python_test/py_learning/module_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/property.py" afterPath="$PROJECT_DIR$/python_test/py_learning/property.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/set_test.py" afterPath="$PROJECT_DIR$/python_test/py_learning/set_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/str_test.py" afterPath="$PROJECT_DIR$/python_test/py_learning/str_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/python_test/py/learning/super.py" afterPath="$PROJECT_DIR$/python_test/py_learning/super.py" />
+    </list>
     <ignored path="python_learning.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,17 +58,23 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python_learning$dymic_import.coverage" NAME="dymic_import Coverage Results" MODIFIED="1487000900936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
+    <SUITE FILE_PATH="coverage/python_learning$customerror.coverage" NAME="customerror Coverage Results" MODIFIED="1487056657733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
     <SUITE FILE_PATH="coverage/python_learning$for_test.coverage" NAME="for_test Coverage Results" MODIFIED="1486666991721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
     <SUITE FILE_PATH="coverage/python_learning$set_test.coverage" NAME="set_test Coverage Results" MODIFIED="1486746897217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
+    <SUITE FILE_PATH="coverage/python_learning$try_finally.coverage" NAME="try_finally Coverage Results" MODIFIED="1487054551501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
+    <SUITE FILE_PATH="coverage/python_learning$with.coverage" NAME="with Coverage Results" MODIFIED="1487054857757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
     <SUITE FILE_PATH="coverage/python_learning$func_test2.coverage" NAME="func_test2 Coverage Results" MODIFIED="1486658682725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
+    <SUITE FILE_PATH="coverage/python_learning$numpy.coverage" NAME="numpy Coverage Results" MODIFIED="1487086080728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
+    <SUITE FILE_PATH="coverage/python_learning$try_except.coverage" NAME="try_except Coverage Results" MODIFIED="1487052911347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
     <SUITE FILE_PATH="coverage/python_learning$property.coverage" NAME="property Coverage Results" MODIFIED="1487015005642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
     <SUITE FILE_PATH="coverage/python_learning$super.coverage" NAME="super Coverage Results" MODIFIED="1487014110515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
     <SUITE FILE_PATH="coverage/python_learning$func_test3.coverage" NAME="func_test3 Coverage Results" MODIFIED="1486666187672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
     <SUITE FILE_PATH="coverage/python_learning$future_test.coverage" NAME="future_test Coverage Results" MODIFIED="1487001134913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
-    <SUITE FILE_PATH="coverage/python_learning$class.coverage" NAME="class Coverage Results" MODIFIED="1487010964920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
+    <SUITE FILE_PATH="coverage/python_learning$class.coverage" NAME="class Coverage Results" MODIFIED="1487051330535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
     <SUITE FILE_PATH="coverage/python_learning$lsn_5_7_contine.coverage" NAME="lsn_5_7_contine Coverage Results" MODIFIED="1486584891694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
     <SUITE FILE_PATH="coverage/python_learning$module_test.coverage" NAME="module_test Coverage Results" MODIFIED="1486573980128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
     <SUITE FILE_PATH="coverage/python_learning$lesson_5_5_while.coverage" NAME="lesson_5_5_while Coverage Results" MODIFIED="1486573996895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
+    <SUITE FILE_PATH="coverage/python_learning$rasise_assert.coverage" NAME="rasise_assert Coverage Results" MODIFIED="1487055667189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
     <SUITE FILE_PATH="coverage/python_learning$json.coverage" NAME="json Coverage Results" MODIFIED="1487014852160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
     <SUITE FILE_PATH="coverage/python_learning$map_test.coverage" NAME="map_test Coverage Results" MODIFIED="1486745626417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
     <SUITE FILE_PATH="coverage/python_learning$math.coverage" NAME="math Coverage Results" MODIFIED="1487000662640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
@@ -38,6 +86,7 @@
     <SUITE FILE_PATH="coverage/python_learning$hantower_test.coverage" NAME="hantower_test Coverage Results" MODIFIED="1486665079987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
     <SUITE FILE_PATH="coverage/python_learning$decorator2.coverage" NAME="decorator2 Coverage Results" MODIFIED="1486999234455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
     <SUITE FILE_PATH="coverage/python_learning$map_reduce_test.coverage" NAME="map_reduce_test Coverage Results" MODIFIED="1486915858692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
+    <SUITE FILE_PATH="coverage/python_learning$numpy__1_.coverage" NAME="numpy (1) Coverage Results" MODIFIED="1487088100357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py_learning" />
     <SUITE FILE_PATH="coverage/python_learning$lsn_5_6_break.coverage" NAME="lsn_5_6_break Coverage Results" MODIFIED="1486584192319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
     <SUITE FILE_PATH="coverage/python_learning$decorator.coverage" NAME="decorator Coverage Results" MODIFIED="1486922060659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
     <SUITE FILE_PATH="coverage/python_learning$lsn_5_8_mulitloop.coverage" NAME="lsn-5_8_mulitloop Coverage Results" MODIFIED="1486585716773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_test/py/learning" />
@@ -59,82 +108,80 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="dic_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_test/py/learning/dic_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="564">
-              <caret line="35" column="101" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="decorator.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_test/py/learning/decorator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="decorator2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_test/py/learning/decorator2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="math" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_test/py/learning/math">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-              <folding>
-                <element signature="e#15#44#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dymic_import.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_test/py/learning/dymic_import.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="future_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_test/py/learning/future_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="class.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_test/py/learning/class.py">
+        <entry file="file://$PROJECT_DIR$/python_test/py_learning/class.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="920">
-              <caret line="79" column="32" lean-forward="false" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="14" />
+            <state relative-caret-position="2024">
+              <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="try_except.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_test/py_learning/try_except.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="805">
+              <caret line="35" column="7" lean-forward="false" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="try_finally.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_test/py_learning/try_finally.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="with.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_test/py_learning/with.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rasise_assert.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_test/py_learning/rasise_assert.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customerror.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_test/py_learning/customerror.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="27" column="26" lean-forward="false" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="numpy.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python_test/py_learning/numpy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="super.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_test/py/learning/super.py">
+        <entry file="file://$PROJECT_DIR$/python_test/py_learning/super.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
+            <state relative-caret-position="387">
               <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
               <folding />
             </state>
@@ -142,20 +189,10 @@
         </entry>
       </file>
       <file leaf-file-name="json.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_test/py/learning/json.py">
+        <entry file="file://$PROJECT_DIR$/python_test/py_learning/json.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="14" column="270" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="property.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python_test/py/learning/property.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="15" column="126" lean-forward="false" selection-start-line="15" selection-start-column="126" selection-end-line="15" selection-end-column="126" />
+            <state relative-caret-position="23">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -221,10 +258,16 @@
         <option value="$PROJECT_DIR$/python_test/py/learning/math" />
         <option value="$PROJECT_DIR$/python_test/py/learning/dymic_import.py" />
         <option value="$PROJECT_DIR$/python_test/py/learning/future_test.py" />
-        <option value="$PROJECT_DIR$/python_test/py/learning/class.py" />
         <option value="$PROJECT_DIR$/python_test/py/learning/super.py" />
         <option value="$PROJECT_DIR$/python_test/py/learning/json.py" />
         <option value="$PROJECT_DIR$/python_test/py/learning/property.py" />
+        <option value="$PROJECT_DIR$/python_test/py/learning/class.py" />
+        <option value="$PROJECT_DIR$/python_test/py/learning/try_except.py" />
+        <option value="$PROJECT_DIR$/python_test/py/learning/try_finally.py" />
+        <option value="$PROJECT_DIR$/python_test/py/learning/with.py" />
+        <option value="$PROJECT_DIR$/python_test/py/learning/rasise_assert.py" />
+        <option value="$PROJECT_DIR$/python_test/py/learning/customerror.py" />
+        <option value="$PROJECT_DIR$/python_test/py/learning/numpy.py" />
       </list>
     </option>
   </component>
@@ -263,7 +306,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="PackagesPane" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers PackagesPane="true" />
       <showModules />
@@ -277,6 +320,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -323,13 +367,30 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="python_learning" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 2.7.9 (D:\Program Files\python\python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -341,8 +402,8 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="D:/Program Files/python" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="jdk.selected.PLUGIN_MODULE" value="IntelliJ IDEA Community Edition IC-143.2370.31" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 2.7.9 (D:\Program Files\python\python.exe)" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -355,26 +416,26 @@
       <recent name="E:\python_learning\python_test\py\firstDay" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.property">
-    <configuration default="false" name="class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.numpy (1)">
+    <configuration default="false" name="with" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="D:\Program Files\python\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_test/py/learning" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_test" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_test/py/learning/class.py" />
+      <option name="SCRIPT_NAME" value="E:\python_learning\python_test\py_learning\with.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="super" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="rasise_assert" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -387,12 +448,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_test" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_test/py/learning/super.py" />
+      <option name="SCRIPT_NAME" value="E:\python_learning\python_test\py_learning\rasise_assert.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="json" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="customerror" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -405,35 +466,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_test" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_test/py/learning/json.py" />
+      <option name="SCRIPT_NAME" value="E:\python_learning\python_test\py_learning\customerror.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in json" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_test/py/learning" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_test" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_test/py/learning/json.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="property" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="numpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -446,7 +484,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_test" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_test/py/learning/property.py" />
+      <option name="SCRIPT_NAME" value="E:\python_learning\python_test\py_learning\numpy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="numpy (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_test/py_learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_test/py_learning/numpy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -1072,19 +1128,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.class" />
-      <item index="1" class="java.lang.String" itemvalue="Python.super" />
-      <item index="2" class="java.lang.String" itemvalue="Python.json" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in json" />
-      <item index="4" class="java.lang.String" itemvalue="Python.property" />
+      <item index="0" class="java.lang.String" itemvalue="Python.with" />
+      <item index="1" class="java.lang.String" itemvalue="Python.rasise_assert" />
+      <item index="2" class="java.lang.String" itemvalue="Python.customerror" />
+      <item index="3" class="java.lang.String" itemvalue="Python.numpy" />
+      <item index="4" class="java.lang.String" itemvalue="Python.numpy (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.property" />
-        <item index="1" class="java.lang.String" itemvalue="Python.json" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in json" />
-        <item index="3" class="java.lang.String" itemvalue="Python.super" />
-        <item index="4" class="java.lang.String" itemvalue="Python.class" />
+        <item index="0" class="java.lang.String" itemvalue="Python.numpy (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.numpy" />
+        <item index="2" class="java.lang.String" itemvalue="Python.customerror" />
+        <item index="3" class="java.lang.String" itemvalue="Python.rasise_assert" />
+        <item index="4" class="java.lang.String" itemvalue="Python.with" />
       </list>
     </recent_temporary>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -1140,7 +1196,8 @@
       <workItem from="1486494100026" duration="11949000" />
       <workItem from="1486656603554" duration="28121000" />
       <workItem from="1487002400380" duration="184000" />
-      <workItem from="1487002853253" duration="10857000" />
+      <workItem from="1487002853253" duration="18183000" />
+      <workItem from="1487086343616" duration="1773000" />
     </task>
     <servers />
   </component>
@@ -1150,7 +1207,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51577000" />
+    <option name="totallyTimeSpent" value="60676000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1163,7 +1220,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1174,12 +1231,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35672516" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35714287" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45614034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45614034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12660944" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1237,44 +1294,21 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/list_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/list_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/class_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/module_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/class_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/str_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/str_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/list_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/list_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
@@ -1282,43 +1316,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/class_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/class_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/str_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/str_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/list_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/class_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/str_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/list_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/list_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1326,7 +1338,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/input_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/input_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
@@ -1334,38 +1346,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/for_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/for_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/func_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/func_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/doc_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/doc_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/module_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/module_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="9" column="92" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/python_test.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1376,35 +1381,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/lsn_5_7_contine.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/lsn_5_7_contine.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="278" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/func_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/func_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="39" column="59" lean-forward="true" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/doc_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/doc_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="6" column="62" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/input_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/input_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
@@ -1412,84 +1410,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/lesson_5_5_while.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/lesson_5_5_while.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/lsn-5_8_mulitloop.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/lsn-5_8_mulitloop.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/lsn_5_6_break.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/lsn_5_6_break.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/module_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/module_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/str_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/str_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="13" column="290" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/class_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/class_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="6" column="57" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/set_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/set_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="398">
           <caret line="22" column="155" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/func_test2.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/func_test2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/fab_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/fab_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="22" column="107" lean-forward="true" selection-start-line="22" selection-start-column="90" selection-end-line="22" selection-end-column="90" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/hantower_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/hantower_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/func_test3.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/func_test3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
           <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/args_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/args_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
@@ -1497,7 +1495,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/for_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/for_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
           <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
@@ -1505,7 +1503,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/list_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/list_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="851">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
@@ -1513,14 +1511,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/func_test4.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/func_test4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/map_reduce_filer.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/map_reduce_filer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1058">
           <caret line="46" column="29" lean-forward="false" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
@@ -1528,7 +1526,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/decorator.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/decorator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
@@ -1536,7 +1534,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/decorator2.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/decorator2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
@@ -1544,24 +1542,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/closure.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/closure.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/math">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/math">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
           <folding>
-            <element signature="e#15#44#0" expanded="true" />
+            <element signature="e#15#44#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/dymic_import.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/dymic_import.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
@@ -1569,7 +1567,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/future_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/future_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
@@ -1577,42 +1575,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/dic_test.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/dic_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="564">
-          <caret line="35" column="101" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/class.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/property.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="79" column="32" lean-forward="false" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="14" />
+        <state relative-caret-position="598">
+          <caret line="26" column="28" lean-forward="false" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/super.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2024">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/try_except.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="35" column="7" lean-forward="false" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/try_finally.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/with.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/rasise_assert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/customerror.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="26" lean-forward="false" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_test/py/learning/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_test/python_test.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/json.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/super.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
           <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/json.py">
+    <entry file="file://$PROJECT_DIR$/python_test/py_learning/numpy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="14" column="270" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_test/py/learning/property.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="15" column="126" lean-forward="false" selection-start-line="15" selection-start-column="126" selection-end-line="15" selection-end-column="126" />
+        <state relative-caret-position="437">
+          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -1646,7 +1708,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>scala-sdk-2.10.6</last-edited>
+          <last-edited>Python 2.7.9 (D:\Program Files\python\python.exe) interpreter library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1658,7 +1720,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>Python 2.7.9 (D:\Program Files\python\python.exe)</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1670,10 +1732,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+          <last-edited>python_test</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

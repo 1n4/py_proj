@@ -84,8 +84,8 @@ p1.addr='china'                                                                 
 print p1.addr,p1.count
 try:
     print p5.addr,p5.count,p5.__count                                                                    #??????????except的错误类型不对时，不能正确执行后面的打印语句？
-except AttributeError:
-    print '\nAccess error'
+except AttributeError:                                                                                                #当出现的异常与处理的异常一致时，执行设置的处理内容，否则交异常交给解释器执行
+    print '\nAccess error'                                                                                              #python解释器能捕获的只有运行时错误，语法错误导致的运行前错误是不能捕获的
 
 
 
