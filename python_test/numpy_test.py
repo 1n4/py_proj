@@ -11,15 +11,17 @@
 # **INPUT TABLE:  
 # **MID TABLE :
 # **DIM TABLE :
-# **OUTPUT TABLE: 
-import numpy   as np
+# **OUTPUT TABLE:
+
+import numpy as np
+
 
 height = [1.73,1.66,1.83,1.77]
-weight = [56,73,66,51]
-
+weight = [56, 73, 66, 51]
 
 np_height = np.array(height)
 np_weight = np.array(weight)
 
-bmi = np_height/np_weight**2
+bmi = np_weight/np_height**2
+bmi = [bmi>20]
 print bmi

@@ -2,7 +2,7 @@
 
 class Person:
     def __init__(self,name):
-          self.name = name
+        self.name = name
     def sayHi(self):
         print "hello %s,how are you" %self.name
 
